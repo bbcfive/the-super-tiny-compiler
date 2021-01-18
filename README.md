@@ -37,7 +37,11 @@ file.
 Run with `node test.js`
 
 ### Online Testing
-Just have fun in the [demo](https://esprima.org/demo/index.html).
----
 
-[![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+Just have fun in the [demo](https://esprima.org/demo/index.html).
+
+### Chinese Docs
+
+Finding the docs in Chinese: [实现一个简单的 JavaScript 编译器](https://juejin.cn/post/6844903781365186567).
+
+---

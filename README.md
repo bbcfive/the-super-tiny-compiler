@@ -1,5 +1,3 @@
-[![The Super Tiny Compiler](https://cloud.githubusercontent.com/assets/952783/21579290/5755288a-cf75-11e6-90e0-029529a44a38.png)](the-super-tiny-compiler.js)
-
 ***Welcome to The Super Tiny Compiler!***
 
 This is an ultra-simplified example of all the major pieces of a modern compiler
@@ -42,6 +40,6 @@ Just have fun in the [demo](https://esprima.org/demo/index.html).
 
 ### Chinese Docs
 
-Finding the docs in Chinese: [实现一个简单的 JavaScript 编译器](https://juejin.cn/post/6844903781365186567).
+Find the docs in Chinese: [实现一个简单的 JavaScript 编译器](https://juejin.cn/post/6844903781365186567).
 
 ---

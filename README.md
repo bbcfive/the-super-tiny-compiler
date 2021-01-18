@@ -32,14 +32,12 @@ the nerds are able to understand.
 Awesome! Head on over to the [the-super-tiny-compiler.js](the-super-tiny-compiler.js)
 file.
 
-### I'm back, that didn't make sense
-
-Ouch, I'm really sorry. Let me know how it can be improved.
-
 ### Tests
 
 Run with `node test.js`
 
+### Online Testing
+Just have fun in the [demo](https://esprima.org/demo/index.html).
 ---
 
 [![cc-by-4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
